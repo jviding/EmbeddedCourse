@@ -48,6 +48,10 @@
 *.crf
 *.d
 *.dep
+*.pdf
+*.xls
+*.sch
+*.
 
 # Debug files
 *.dSYM/
