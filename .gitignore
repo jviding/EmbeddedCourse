@@ -38,6 +38,16 @@
 *.bak
 *.Jasu
 *.uvgui
+*.Inp
+*.lnp
+*.tra
+*.uvproj
+*.lst
+*.Ist
+*.s
+*.crf
+*.d
+*.dep
 
 # Debug files
 *.dSYM/
