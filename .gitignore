@@ -28,5 +28,16 @@
 *.x86_64
 *.hex
 
+# Additional
+*.iex
+*.axf
+*.htm
+*.map
+*.plg
+*.uvopt
+*.bak
+*.Jasu
+*.uvgui
+
 # Debug files
 *.dSYM/
